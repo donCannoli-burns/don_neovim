@@ -113,3 +113,14 @@ Apache 2.0 license, except for contributions copied from Vim (identified by the
 [Homebrew]: https://formulae.brew.sh/formula/neovim
 
 <!-- vim: set tw=80: -->
+
+## Experimental KoLmafia ASH / Neovim compatibility work
+
+This fork contains an experimental, independently written ASH compatibility
+plugin under [`contrib/kolmafia-ash.nvim`](contrib/kolmafia-ash.nvim).
+Historical credit goes to the original
+[quisquous/vim-kolmafia](https://github.com/quisquous/vim-kolmafia) and the
+later [C2Talon/vim-kolmafia](https://github.com/C2Talon/vim-kolmafia) work.
+See the [port history, attribution and archive-branch policy](docs/kolmafia-vim-port-history.md).
+The original Neovim project is [neovim/neovim](https://github.com/neovim/neovim).
+This extension is experimental and is not an official Neovim or KoLmafia release.
